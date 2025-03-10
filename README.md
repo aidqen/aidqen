@@ -19,10 +19,13 @@ I’m passionate about building scalable, user-friendly applications using moder
 
 ### 📌 Featured Projects:
 🚀 [Spotify Clone](https://github.com/your-project-link) - A fully functional Spotify clone (music streaming app).
+
 📅 [Planwise AI](https://github.com/your-project-link) - A tool for creating schedules with AI based on preferences, routines and goals.
+
 🛠️ [Linktree Clone](https://github.com/your-project-link) - A customizable link-sharing platform for creators.
 
 ### 📫 Connect with Me:
+
 [LinkedIn](https://www.linkedin.com/in/idan-markin-274004289/) | [Email](mailto:idanmarkin8@gmail.com)
 
 ---
