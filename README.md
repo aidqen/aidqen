@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Idan Markin
+<h1 align="center">👋 Hi, I'm Idan Markin</h1>
 
-💻 Fullstack Developer | 🎨 UI/UX Enthusiast | 🚀 Self-Learner  
+<h2 align="center">💻 Fullstack Developer | 🎨 UI/UX Enthusiast | 🚀 Self-Learner  </h2>
 
-I’m passionate about building scalable, user-friendly applications using modern web technologies. I love solving complex problems and creating intuitive digital experiences.
+<p align="center">I’m passionate about building scalable, user-friendly applications using modern web technologies. I love solving complex problems and creating intuitive digital experiences.</p>
 
 ### 🔧 Tech Stack:
 <p align="center">
