@@ -17,12 +17,19 @@ I’m passionate about building scalable, user-friendly applications using moder
 [![SQL Badge](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
+
 ### 📌 Featured Projects:
-🚀 [Spotify Clone](https://github.com/your-project-link) - A fully functional Spotify clone (music streaming app).
 
-📅 [Planwise AI](https://github.com/your-project-link) - A tool for creating schedules with AI based on preferences, routines and goals.
+📅 [Planwise AI](plan-wise.app) - A SaaS tool for creating schedules with AI based on goals and routines, and integrate them to Google Calendar.
+- **Frontend and Backend**: [View Code](https://github.com/aidqen/planwise.ai)
 
-🛠️ [Linktree Clone](https://github.com/your-project-link) - A customizable link-sharing platform for creators.
+🚀 [Spotify Clone](https://groovify-ca.onrender.com/) - A fully functional Spotify clone (Music streaming app).
+- **Frontend**: [View Code](https://github.com/ALONGOD/Groovify-frontend)
+- **Backend**: [View Code](https://github.com/ALONGOD/Groovify-backend)
+
+🛠️ **Linktree Clone** - A customizable link-sharing platform for creators.
+- **Frontend**: [View Code](https://github.com/aidqen/Link-Sharing-App)
+
 
 ### 📫 Connect with Me:
 
