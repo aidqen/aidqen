@@ -5,7 +5,7 @@
 I’m passionate about building scalable, user-friendly applications using modern web technologies. I love solving complex problems and creating intuitive digital experiences.
 
 ### 🔧 Tech Stack:
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](#)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"/>
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
@@ -21,19 +21,25 @@ I’m passionate about building scalable, user-friendly applications using moder
 ### 📌 Featured Projects:
 
 📅 [Planwise AI](plan-wise.app) - A SaaS tool for creating schedules with AI based on goals and routines, and integrate them to Google Calendar.
-- **Frontend and Backend**: [View Code](https://github.com/aidqen/planwise.ai)
 
 🚀 [Spotify Clone](https://groovify-ca.onrender.com/) - A fully functional Spotify clone (Music streaming app).
-- **Frontend**: [View Code](https://github.com/ALONGOD/Groovify-frontend)
-- **Backend**: [View Code](https://github.com/ALONGOD/Groovify-backend)
 
-🛠️ **Linktree Clone** - A customizable link-sharing platform for creators.
-- **Frontend**: [View Code](https://github.com/aidqen/Link-Sharing-App)
+🛠️ [Linkify](https://github.com/aidqen/Link-Sharing-App) - A customizable link-sharing platform for creators.
+
 
 
 ### 📫 Connect with Me:
 
-[LinkedIn](https://www.linkedin.com/in/idan-markin-274004289/) | [Email](mailto:idanmarkin8@gmail.com)
+<table>
+  <tr>
+    <td><a href="mailto:idanmarkin8@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle;" /></a></td>
+    <td><a href="mailto:idanmarkin8@gmail.com" style="vertical-align: middle; text-decoration: none; color: black;">alongoddard1@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/idan-markin-274004289/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
+    <td><a href="https://www.linkedin.com/in/idan-markin-274004289/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
+  </tr>
+</table>
 
 ---
 ⭐ **Feel free to check out my projects and give feedback!** ⭐
