@@ -5,7 +5,7 @@
 I’m passionate about building scalable, user-friendly applications using modern web technologies. I love solving complex problems and creating intuitive digital experiences.
 
 ###🔧 Tech Stack:
-
+<p align="right">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
@@ -14,7 +14,7 @@ I’m passionate about building scalable, user-friendly applications using moder
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-
+</p>
 
 ### 📌 Featured Projects:
 
