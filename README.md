@@ -31,11 +31,11 @@ I’m passionate about building scalable, user-friendly applications using moder
 <table>
   <tr>
     <td><a href="mailto:idanmarkin8@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle;" /></a></td>
-    <td><a href="mailto:idanmarkin8@gmail.com" style="vertical-align: middle; text-decoration: none; color: black;">alongoddard1@gmail.com</a></td>
+    <td><a href="mailto:idanmarkin8@gmail.com" style="vertical-align: middle; text-decoration: none; color: black;">idanmarkin8@gmail.com</a></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/idan-markin-274004289/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
-    <td><a href="https://www.linkedin.com/in/idan-markin-274004289/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
+    <td><a href="https://www.linkedin.com/in/idan-markin-274004289/" style="vertical-align: middle; text-decoration: none; color: black;">Idan Markin</a></td>
   </tr>
 </table>
 
