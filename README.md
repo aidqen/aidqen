@@ -6,6 +6,7 @@ I’m passionate about building scalable, user-friendly applications using moder
 
 ### 🔧 Tech Stack:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
