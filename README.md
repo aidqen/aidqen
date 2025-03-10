@@ -4,7 +4,7 @@
 
 I’m passionate about building scalable, user-friendly applications using modern web technologies. I love solving complex problems and creating intuitive digital experiences.
 
-### 🔧 Tech Stack:
+<p align="center">🔧 Tech Stack:</p>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
