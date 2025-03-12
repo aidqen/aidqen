@@ -2,7 +2,8 @@
 
 <h2 align="center">💻 Fullstack Developer | 🎨 UI/UX Enthusiast | 🚀 Self-Learner  </h2>
 
-I’m passionate about building scalable, user-friendly applications using modern web technologies. I love solving complex problems and creating intuitive digital experiences.
+- I’m passionate about building user-friendly, impactful applications using modern web technologies. I love solving complex problems and creating intuitive digital experiences.
+- Coding Academy Graduate.
 
 ### 🔧 Tech Stack:
 <p align="left">
